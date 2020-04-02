@@ -29,6 +29,16 @@ remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
 
+plainwhite:
+  name: Sebastian Varga
+  tagline: Hands-On IT
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: sebvarga
+    github: arviaja
+    linkedIn: in/sebvarga # format: locale/username
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
