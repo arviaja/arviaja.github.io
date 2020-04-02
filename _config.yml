@@ -26,7 +26,7 @@ show_excerpts: true
 
 # Build settings
 markdown: kramdown
-theme: jekyll
+theme: jekyll-theme-slate
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
