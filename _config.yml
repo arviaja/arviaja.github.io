@@ -24,6 +24,7 @@ github_username:  arviaja
 
 # Build settings
 markdown: kramdown
+theme: jekyll
 remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-feed
