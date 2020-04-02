@@ -22,6 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sebvarga
 github_username:  arviaja
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 theme: jekyll
@@ -33,11 +35,13 @@ plainwhite:
   name: Sebastian Varga
   tagline: Hands-On IT
   date_format: "%b %-d, %Y"
+  sitemap: true
 
   social_links:
     twitter: sebvarga
     github: arviaja
     linkedIn: in/sebvarga # format: locale/username
+    rss: rss
 
 plugins:
   - jekyll-seo-tag
