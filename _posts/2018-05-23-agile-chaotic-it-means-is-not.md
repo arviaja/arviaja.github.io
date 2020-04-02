@@ -4,9 +4,6 @@ title:  "Agile != Chaotic"
 date:   2018-05-23 13:40:00 +0200
 categories: agile software development
 ---
-
-![](assets/img/015Cheetahs14.jpg)
-
 This is an old one, but it's important to me, because the NoConsultant Manifesto is based on its principles. I am writing of course about the [Agile Manifesto](http://agilemanifesto.org) (you might get an error message from your browser when you go there) and the abuse of the term "agile" in many IT departments.
 
 When it was new and fresh, the Agile Manifesto was (and still is) in stark contrast to conventional development approaches.
