@@ -36,6 +36,7 @@ plainwhite:
   tagline: Hands-On IT
   date_format: "%b %-d, %Y"
   sitemap: true
+  portfolio_image:  "assets/portfolio.png"
 
   social_links:
     twitter: sebvarga
