@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Corona - we're checking the wrong numbers"
+title:  "Corona - Representative Testing"
 date:   2020-03-31 14:00:00 +0200
 categories: corona covid19 sars-cov-2
 ---
